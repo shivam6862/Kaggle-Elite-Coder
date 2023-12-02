@@ -35,6 +35,10 @@ In this natural language processing competition, I focused on analyzing disaster
 
 The Titanic competition involved predicting survival outcomes based on passenger information. Leveraging machine learning techniques, my solution achieved a score of 0.80622, demonstrating my ability to handle classic machine learning problems effectively.
 
+### [Digit-Recognizer](https://www.kaggle.com/code/shivam6862/deep-digit-detective-score-0-9876)
+
+Digit Recognizer is a high-performance deep learning model for handwritten digit classification. Achieving an impressive accuracy score of 0.9876, it showcases the effectiveness of convolutional neural networks and artificial neural networks. This project, available on Kaggle, offers a powerful solution for accurately identifying and classifying digits, demonstrating state-of-the-art performance in image recognition tasks.
+
 ## Kaggle Profile
 
 To learn more about my Kaggle expertise, you can visit my Kaggle profile and follow my activity:
