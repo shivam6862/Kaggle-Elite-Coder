@@ -39,6 +39,10 @@ The Titanic competition involved predicting survival outcomes based on passenger
 
 Digit Recognizer is a high-performance deep learning model for handwritten digit classification. Achieving an impressive accuracy score of 0.9876, it showcases the effectiveness of convolutional neural networks and artificial neural networks. This project, available on Kaggle, offers a powerful solution for accurately identifying and classifying digits, demonstrating state-of-the-art performance in image recognition tasks.
 
+### [Pet-Classify-Hub](https://www.kaggle.com/code/shivam6862/pet-classify-hub)
+
+Pet Classify Hub is an application designed for classifying images of pets, specifically cats and dogs. This project utilizes a user-friendly web interface built with Next.js for the frontend and a backend server powered by Flask. The classification models are implemented using TensorFlow, Convolutional Neural Network (CNN) models.
+
 ## Kaggle Profile
 
 To learn more about my Kaggle expertise, you can visit my Kaggle profile and follow my activity:
